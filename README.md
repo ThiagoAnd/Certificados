@@ -1,2 +1,2 @@
 # Certificados
-🎓 Certificados de cursos, palestras,workshops,etc.
+ Certificados de cursos, palestras,workshops,etc.
